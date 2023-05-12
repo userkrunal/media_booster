@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src="https://github.com/userkrunal/media_booster/assets/120082312/ea92551e-1413-4a6b-a778-e0a49ec3fa8a"  width="100" height="200">
+<img src="https://github.com/userkrunal/media_booster/assets/120082312/ea92551e-1413-4a6b-a778-e0a49ec3fa8a"  width="200" height="300">
 
-<img src="https://github.com/userkrunal/media_booster/assets/120082312/34d16dc1-1421-40ea-b585-ff09ed2fd1b0"  width="100" height="200">
+<img src="https://github.com/userkrunal/media_booster/assets/120082312/34d16dc1-1421-40ea-b585-ff09ed2fd1b0"  width="200" height="300">
 
-<img src="https://github.com/userkrunal/media_booster/assets/120082312/0460c465-9742-4aee-8631-0854d2358014"  width="100" height="200">
+<img src="https://github.com/userkrunal/media_booster/assets/120082312/0460c465-9742-4aee-8631-0854d2358014"  width="200" height="300">
